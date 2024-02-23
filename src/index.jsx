@@ -10,6 +10,13 @@ export function App() {
         <img src={preactLogo} alt="Preact logo" height="160" width="160" />
       </a> */}
       <h1>Charlie Go Painting</h1>
+      <p>
+        Professional painting and handy man services in the Newport, RI area.
+      </p>
+      <p>
+        Contact:{" "}
+        <a href="mailto:charlesgourlay@gmail.com">charlesgourlay@gmail.com</a>
+      </p>
       <section>
         {/* <Resource
 					title="Learn Preact"
